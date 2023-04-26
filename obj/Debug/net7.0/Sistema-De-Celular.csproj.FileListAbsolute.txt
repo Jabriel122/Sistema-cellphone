@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\bin\Debug\net7.0\Sistema-De-Celular.exe
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\bin\Debug\net7.0\Sistema-De-Celular.deps.json
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\bin\Debug\net7.0\Sistema-De-Celular.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\bin\Debug\net7.0\Sistema-De-Celular.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\bin\Debug\net7.0\Sistema-De-Celular.pdb
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\Sistema-De-Celular.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\Sistema-De-Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\Sistema-De-Celular.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\Sistema-De-Celular.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\Sistema-De-Celular.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\Sistema-De-Celular.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\refint\Sistema-De-Celular.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\Sistema-De-Celular.pdb
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\Sistema-De-Celular.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Sistema-De-Celular\obj\Debug\net7.0\ref\Sistema-De-Celular.dll
